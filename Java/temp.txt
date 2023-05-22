@@ -1,0 +1,10 @@
+bool cmpprice(vector<string> v1,vector<string> v2) //cmp which sorts on basis of particular index of vector
+{
+        return v1[4]<v2[4];
+}
+bool cmpname(vector<string> v1,vector<string> v2)
+{
+     return v1[2]<v2[2];
+}
+1000 1 Book s3_book 70 6
+1000 1 Book s5_book 20 9
